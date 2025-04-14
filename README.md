@@ -29,7 +29,7 @@
 ![Ảnh chụp màn hình 2025-04-14 212751](https://github.com/user-attachments/assets/4faac348-44e4-49fb-b7cf-8f98e04e0ff5)
 
 # 2. Tạo bảng cho database THOIKHOABIEU
-### ***Để tạo được các bảng Click vào Table -> New -> Table để tiến hành tạo bảng và nhập nội dung.***
+### ***Để tạo được các bảng Click vào Tables -> New -> Table để tiến hành tạo bảng và nhập nội dung.***
 2.1 Tạo bảng GiaoVien thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
 ![Ảnh chụp màn hình 2025-04-14 215748](https://github.com/user-attachments/assets/d4adc30e-697a-4412-9ae1-4c44f555d401)
 2.2 Tạo bảng MonHoc thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
@@ -39,3 +39,4 @@
 2.4 Tạo bảng TKB thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
 ![Ảnh chụp màn hình 2025-04-14 215418](https://github.com/user-attachments/assets/52c0372b-4d65-43aa-8404-46f74ea0bd1d)
 
+# <p align="center">***THE END***</p>
