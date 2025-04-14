@@ -20,3 +20,22 @@
   insert nhiều rows từ excel vào cửa sổ edit dữ liệu 1 table (quan sát thì sẽ làm đc)
 
 # <p align="center">***Deadline: 15/4/2025***</p>
+# <p align="center">Bài làm</p>
+
+# 1. Tạo Database THOIKHOABIEU
+1.1 Tiến hành tạo Database bằng cách Click chuột phải vào Databases -> New Databases để tạo Database THOIKHOABIEU và thực hiện như các bước trong hình bên dưới để hoàn thành.
+![Ảnh chụp màn hình 2025-04-14 212547](https://github.com/user-attachments/assets/a5ee34f2-9257-46c2-8d17-8dbd052b0f6f)
+1.2 Kết quả Database THOIKHOABIEU tạo được sẽ như hình.
+![Ảnh chụp màn hình 2025-04-14 212751](https://github.com/user-attachments/assets/4faac348-44e4-49fb-b7cf-8f98e04e0ff5)
+
+# 2. Tạo bảng cho database THOIKHOABIEU
+### ***Để tạo được các bảng Click vào Table -> New -> Table để tiến hành tạo bảng và nhập nội dung.***
+2.1 Tạo bảng GiaoVien thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
+![Ảnh chụp màn hình 2025-04-14 215748](https://github.com/user-attachments/assets/d4adc30e-697a-4412-9ae1-4c44f555d401)
+2.2 Tạo bảng MonHoc thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
+![Ảnh chụp màn hình 2025-04-14 214636](https://github.com/user-attachments/assets/9f083f9c-b136-40c8-a71f-be1e845e087f)
+2.3 Tạo bảng LopHocPhan thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
+![Ảnh chụp màn hình 2025-04-14 214823](https://github.com/user-attachments/assets/29257fd7-1d86-4ac9-85c6-0717348e5dbc)
+2.4 Tạo bảng TKB thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
+![Ảnh chụp màn hình 2025-04-14 215418](https://github.com/user-attachments/assets/52c0372b-4d65-43aa-8404-46f74ea0bd1d)
+
