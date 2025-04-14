@@ -28,7 +28,7 @@
 1.2 Kết quả Database THOIKHOABIEU tạo được sẽ như hình.
 ![Ảnh chụp màn hình 2025-04-14 212751](https://github.com/user-attachments/assets/4faac348-44e4-49fb-b7cf-8f98e04e0ff5)
 
-# 2. Tạo bảng cho database THOIKHOABIEU
+# 2. Tạo bảng cho database THOIKHOABIEU và thiết lập Diagrams.
 ### ***Để tạo được các bảng Click vào Tables -> New -> Table để tiến hành tạo bảng và nhập nội dung.***
 2.1 Tạo bảng GiaoVien thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
 ![Ảnh chụp màn hình 2025-04-14 215748](https://github.com/user-attachments/assets/d4adc30e-697a-4412-9ae1-4c44f555d401)
@@ -38,5 +38,18 @@
 ![Ảnh chụp màn hình 2025-04-14 214823](https://github.com/user-attachments/assets/29257fd7-1d86-4ac9-85c6-0717348e5dbc)
 2.4 Tạo bảng TKB thực hiện như trong hình để hoàn thành bảng gồm các trường, kiểu dữ liệu và PK.
 ![Ảnh chụp màn hình 2025-04-14 215418](https://github.com/user-attachments/assets/52c0372b-4d65-43aa-8404-46f74ea0bd1d)
+- Thiết lập khóa ngoại (FK) với bảng GiaoVien bằng khóa ngoại tham chiếu MaGV.
+![Ảnh chụp màn hình 2025-04-14 222157](https://github.com/user-attachments/assets/ddcf13cb-add3-4b66-9ba9-ae5143ac01a2)
+- Thiết lập khóa ngoại (FK) với bảng MonHoc bằng khóa ngoại tham chiếu MaMH.
+![Ảnh chụp màn hình 2025-04-14 222247](https://github.com/user-attachments/assets/b403bda0-ad51-479f-a5eb-2c63c33e0965)
+- Thiết lập khóa ngoại (FK) với bảng LopHocPhan bằng khóa ngoại tham chiếu MaLHP.
+![Ảnh chụp màn hình 2025-04-14 222326](https://github.com/user-attachments/assets/2696a46b-016e-4b9f-991b-0f3ac4544e73)
+- Click Yes để tiến hành lưu bảng TKB.
+![Ảnh chụp màn hình 2025-04-14 222407](https://github.com/user-attachments/assets/f0cf0139-de37-48f0-bee1-53a652ea6679)
+2.5 Xây dụng tạo Diagram
+- Cách tạo: Click phải chuột Databases Diagrams -> New Database Diagram và thực hiện lần lượt thao tác như hình.
+![Ảnh chụp màn hình 2025-04-14 222531](https://github.com/user-attachments/assets/c27b16b4-ad88-40bc-bf45-4ac16c23211e)
+- Kết quả Diagram thu được như hình.
+![Ảnh chụp màn hình 2025-04-14 222840](https://github.com/user-attachments/assets/d41b33e4-78b9-47e6-8c17-8e8b036b7bd3)
 
 # <p align="center">***THE END***</p>
