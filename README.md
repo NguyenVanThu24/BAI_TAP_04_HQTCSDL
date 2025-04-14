@@ -50,4 +50,4 @@ Cách tạo: Click phải chuột Databases Diagrams -> New Database Diagram và
 Kết quả Diagram thu được như hình.
 ![Ảnh chụp màn hình 2025-04-14 222840](https://github.com/user-attachments/assets/d41b33e4-78b9-47e6-8c17-8e8b036b7bd3)
 
-# <p align="center">***THE END***</p>
+# <p align="center">***-- THE END --***</p>
