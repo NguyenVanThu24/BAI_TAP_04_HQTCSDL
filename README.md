@@ -45,7 +45,7 @@ Thiết lập khóa ngoại (FK) với bảng MonHoc bằng khóa ngoại tham c
 ![Ảnh chụp màn hình 2025-04-14 222247](https://github.com/user-attachments/assets/b403bda0-ad51-479f-a5eb-2c63c33e0965)
 Thiết lập khóa ngoại (FK) với bảng LopHocPhan bằng khóa ngoại tham chiếu MaLHP.
 ![Ảnh chụp màn hình 2025-04-14 222326](https://github.com/user-attachments/assets/0c62d357-7324-4978-a4c9-fd05ab37e4be)
-Click Yes tiến hành lưu bảng TKB.
+Click Yes để hoàn tất thiết lập khóa ngoại (FK) và tiến hành lưu bảng TKB.
 ![Ảnh chụp màn hình 2025-04-14 222407](https://github.com/user-attachments/assets/1d77894d-d510-4606-ac84-a29d6ea3f0ed)
 2.5 Xây dựng tạo Diagrams cho Database.
 Cách tạo: Click phải chuột Databases Diagrams -> New Database Diagram và thực hiện lần lượt thao tác như hình.
