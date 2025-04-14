@@ -49,5 +49,8 @@ Cách tạo: Click phải chuột Databases Diagrams -> New Database Diagram và
 ![Ảnh chụp màn hình 2025-04-14 222531](https://github.com/user-attachments/assets/c27b16b4-ad88-40bc-bf45-4ac16c23211e)
 Kết quả Diagram thu được như hình.
 ![Ảnh chụp màn hình 2025-04-14 222840](https://github.com/user-attachments/assets/d41b33e4-78b9-47e6-8c17-8e8b036b7bd3)
+# 3. Thêm dữ liệu cho các bảng trong Database THOIKHOABIEU.
+3.1 Thực hiện truy cập vào đường link sau: https://tms.tnut.edu.vn/tkb/# để copy nguồn dữ liệu. Với giao diện Web như hình bên dưới để kiểm tra đúng nguồn tránh nhầm lẫn.
+![Ảnh chụp màn hình 2025-04-14 231747](https://github.com/user-attachments/assets/b0366ed2-d1ae-40c8-a6a9-915ddadb6de5)
 
 # <p align="center">***-- THE END --***</p>
