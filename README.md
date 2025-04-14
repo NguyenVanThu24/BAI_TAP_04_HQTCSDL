@@ -44,7 +44,8 @@ Thiết lập khóa ngoại (FK) với bảng GiaoVien bằng khóa ngoại tham
 Thiết lập khóa ngoại (FK) với bảng MonHoc bằng khóa ngoại tham chiếu MaMH.
 ![Ảnh chụp màn hình 2025-04-14 222247](https://github.com/user-attachments/assets/b403bda0-ad51-479f-a5eb-2c63c33e0965)
 Thiết lập khóa ngoại (FK) với bảng LopHocPhan bằng khóa ngoại tham chiếu MaLHP.
-![Ảnh chụp màn hình 2025-04-14 222326](https://github.com/user-attachments/assets/2696a46b-01dựng tạo Diagram
+![Ảnh chụp màn hình 2025-04-14 222326](https://github.com/user-attachments/assets/0c62d357-7324-4978-a4c9-fd05ab37e4be)
+2.5 Xây dựng tạo Diagrams cho Database.
 Cách tạo: Click phải chuột Databases Diagrams -> New Database Diagram và thực hiện lần lượt thao tác như hình.
 ![Ảnh chụp màn hình 2025-04-14 222531](https://github.com/user-attachments/assets/c27b16b4-ad88-40bc-bf45-4ac16c23211e)
 Kết quả Diagram thu được như hình.
