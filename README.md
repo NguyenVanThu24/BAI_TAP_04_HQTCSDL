@@ -71,24 +71,9 @@ Tiếp theo tiến hành lọc dữ liệu trùng lặp cho bảng GiaoVien tron
 
 3.7 lệnh truy vấn 
 
--- ================================================
--- Template generated from Template Explorer using:
--- Create Procedure (New Menu).SQL
---
--- Use the Specify Values for Template Parameters 
--- command (Ctrl-Shift-M) to fill in the parameter 
--- values below.
---
--- This block of comments will not be included in
--- the definition of the procedure.
--- ================================================
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
 -- =============================================
--- Author:      Đậu Văn Khánh
--- Create date: 2025-04-13
+-- Author:      Nguyễn văn Thứ
+-- Create date: 15/04/2025
 -- Description:	Truy vấn các giáo viên bận giảng dạy trong khoảng thời gian
 -- =============================================
 ALTER PROCEDURE TKB_GV 
@@ -117,7 +102,6 @@ END
 GO
 -- Lấy danh sách giảng viên bận từ 8:00 đến 12:00 ngày 2025-03-20
 EXEC TKB_GV '2025-03-20 8:00', '2025-03-20 12:00';
-3.8 Kết quả
-![Ảnh chụp màn hình 2025-04-15 234835](https://github.com/user-attachments/assets/ae0e0979-85de-4ce2-aaab-e78b720b7b6a)
+
 
 # <p align="center">***-- THE END --***</p>
