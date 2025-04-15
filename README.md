@@ -60,6 +60,13 @@ Copy cột B GV sang một cố bất kỳ còn trống sau đó dán vào và t
 Tiếp theo tiến hành lọc dữ liệu trùng lặp cho bảng GiaoVien trong Excel. Chọn vào cột GV vừa dán -> trên thanh công cụ chọn Data -> chọn tiếp "Remove Duplicates" -> hộp thoại hiện ra -> click ok để hoàn tất xác nhận. Tiếp theo đó là điển MaGV vào cột để hoàn tất được kết quả như hình.
 ![Ảnh chụp màn hình 2025-04-15 202250](https://github.com/user-attachments/assets/b1ed2f3e-1fef-40a9-9641-1ecf324594f1)
 ![Ảnh chụp màn hình 2025-04-15 205103](https://github.com/user-attachments/assets/51ac55c4-1784-4784-9da0-7e793a5b3271)
+3.4 Xây dựng dữ liệu cho bảng MonHoc
+![Ảnh chụp màn hình 2025-04-15 205417](https://github.com/user-attachments/assets/e7144205-6617-4bb4-bf92-24af6eca30c2)
+![Ảnh chụp màn hình 2025-04-15 205523](https://github.com/user-attachments/assets/a97bec72-f7f2-4d98-a353-216ff5dffd1f)
+3.5 Xây dựng dữ liêu cho bảng LopHocPhan
+![Ảnh chụp màn hình 2025-04-15 210143](https://github.com/user-attachments/assets/2649848e-8e6b-42a7-bdb1-50807f6cb2bb)
+![Ảnh chụp màn hình 2025-04-15 210150](https://github.com/user-attachments/assets/a5d8e39d-8068-44d1-93d5-2fc33ed0a48c)
+3.6 Xây dựng dữ liệu cho bảng TKB
 
 
 # <p align="center">***-- THE END --***</p>
