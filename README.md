@@ -66,5 +66,58 @@ Tiếp theo tiến hành lọc dữ liệu trùng lặp cho bảng GiaoVien tron
 3.5 Xây dựng dữ liêu cho bảng LopHocPhan
 ![Ảnh chụp màn hình 2025-04-15 210143](https://github.com/user-attachments/assets/2649848e-8e6b-42a7-bdb1-50807f6cb2bb)
 ![Ảnh chụp màn hình 2025-04-15 210150](https://github.com/user-attachments/assets/a5d8e39d-8068-44d1-93d5-2fc33ed0a48c)
+3.6 Xây dựng dữ liệu cho bảng TKB
+![Ảnh chụp màn hình 2025-04-15 234423](https://github.com/user-attachments/assets/15c69777-c5a0-4b9b-b912-1c76ce333c79)
+
+3.7 lệnh truy vấn 
+
+-- ================================================
+-- Template generated from Template Explorer using:
+-- Create Procedure (New Menu).SQL
+--
+-- Use the Specify Values for Template Parameters 
+-- command (Ctrl-Shift-M) to fill in the parameter 
+-- values below.
+--
+-- This block of comments will not be included in
+-- the definition of the procedure.
+-- ================================================
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:      Đậu Văn Khánh
+-- Create date: 2025-04-13
+-- Description:	Truy vấn các giáo viên bận giảng dạy trong khoảng thời gian
+-- =============================================
+ALTER PROCEDURE TKB_GV 
+    @thoiGianBatDau datetime,
+    @thoiGianKetThuc datetime
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT DISTINCT
+        GV.HoTen AS N'Họ tên GV',
+        MH.TenMH AS N'Môn dạy',
+        TKB.GioVao AS N'Giờ vào',
+        TKB.GioRa AS N'Giờ ra'
+    FROM TKB 
+    JOIN GiaoVien GV ON TKB.MaGV = GV.MaGV
+    JOIN MonHoc MH ON TKB.MaMH = MH.MaMH
+    WHERE
+        TKB.NgayHoc = CAST(@thoiGianBatDau AS DATE)
+        AND (
+            -- Khoảng thời gian kiểm tra giao với thời gian giảng dạy
+            TKB.GioVao < CAST(@thoiGianKetThuc AS TIME)
+            AND TKB.GioRa > CAST(@thoiGianBatDau AS TIME)
+        )
+END
+GO
+-- Lấy danh sách giảng viên bận từ 8:00 đến 12:00 ngày 2025-03-20
+EXEC TKB_GV '2025-03-20 8:00', '2025-03-20 12:00';
+3.8 Kết quả
+![Ảnh chụp màn hình 2025-04-15 234835](https://github.com/user-attachments/assets/ae0e0979-85de-4ce2-aaab-e78b720b7b6a)
 
 # <p align="center">***-- THE END --***</p>
