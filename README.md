@@ -100,7 +100,7 @@ BEGIN
         )
 END
 GO
--- Lấy danh sách giảng viên bận từ 8:00 đến 12:00 ngày 2025-03-20
+Lấy danh sách giảng viên bận từ 8:00 đến 12:00 ngày 2025-03-20
 EXEC TKB_GV '2025-03-20 8:00', '2025-03-20 12:00';
 
 
