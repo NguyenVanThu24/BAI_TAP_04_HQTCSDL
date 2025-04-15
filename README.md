@@ -66,7 +66,5 @@ Tiếp theo tiến hành lọc dữ liệu trùng lặp cho bảng GiaoVien tron
 3.5 Xây dựng dữ liêu cho bảng LopHocPhan
 ![Ảnh chụp màn hình 2025-04-15 210143](https://github.com/user-attachments/assets/2649848e-8e6b-42a7-bdb1-50807f6cb2bb)
 ![Ảnh chụp màn hình 2025-04-15 210150](https://github.com/user-attachments/assets/a5d8e39d-8068-44d1-93d5-2fc33ed0a48c)
-3.6 Xây dựng dữ liệu cho bảng TKB
-
 
 # <p align="center">***-- THE END --***</p>
