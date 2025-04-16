@@ -52,7 +52,7 @@ Kết quả Diagram thu được như hình.
 # 3. Thêm dữ liệu cho các bảng trong Database THOIKHOABIEU.
 3.1 Thực hiện truy cập vào đường link sau: https://tms.tnut.edu.vn/tkb/# để copy nguồn dữ liệu. Với giao diện Web như hình bên dưới để kiểm tra đúng nguồn tránh nhầm lẫn.
 ![Ảnh chụp màn hình 2025-04-14 231747](https://github.com/user-attachments/assets/b0366ed2-d1ae-40c8-a6a9-915ddadb6de5)
-3.2 Copy dữ liệu thô từ https://tms.tnut.edu.vn/tkb/#vào Excel ta được kết quả như hình.
+3.2 Copy dữ liệu thô từ https://tms.tnut.edu.vn/tkb/#vào Excel ta được kết quả như hình. Dữ liệu tuần: 34 (21/04/2025 → 27/04/2025).
 ![Ảnh chụp màn hình 2025-04-15 200449](https://github.com/user-attachments/assets/589af21b-04a8-4730-99e2-096351753aee)
 3.3 Tiến hành xây dựng dữ liệu cho bảng GiaoVien
 Copy cột B GV sang một cố bất kỳ còn trống sau đó dán vào và tạo thêm cột bên cạnh với tên MaGV vì trong dữ liệu Excel chưa có được kết quả như hình.
