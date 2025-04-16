@@ -7,7 +7,7 @@
  - Tạo các bảng tuỳ ý (3nf)
  - Tạo được query truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra.
 # Trả lời câu hỏi: 
- - trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
+ - Trong khoảng thời gian từ datetime1 tới datetime2 thì có những giảng viên nào vướng lịch dạy và không thể tham gia cuộc họp được.
 
 # Các bước thực hiện:
 1. Tạo github repo mới: đặt tên tuỳ ý (có liên quan đến bài tập này)
@@ -68,7 +68,7 @@ Tiếp theo tiến hành lọc dữ liệu trùng lặp cho bảng GiaoVien tron
 ![Ảnh chụp màn hình 2025-04-15 210150](https://github.com/user-attachments/assets/a5d8e39d-8068-44d1-93d5-2fc33ed0a48c)
 3.6 Xây dựng dữ liệu cho bảng TKB
 ![Ảnh chụp màn hình 2025-04-16 233442](https://github.com/user-attachments/assets/af1dacdb-0677-4239-b992-70715df3891f)
-3.7 Tập lệnh truy vấn tìm giảng viên vướng lịch dạy vào thời gian diễn ra cuộc họp.
+3.7 Hướng dẫn tạo quẻy truy vấn để trả lời cho câu hỏi: Trong khoảng thời gian từ datetime1 tới datetime2 thì có những giảng viên nào vướng lịch dạy và không thể tham gia cuộc họp được. Đầu tiên trỏ chuột vào thư mục Programmability -> Stored Procesdures -> Stored Procesdure... để có được cửa sổ như hình và thực hiện thao tác tập lệnh truy vấn để tìm kết quả.
 ![Ảnh chụp màn hình 2025-04-16 233645](https://github.com/user-attachments/assets/63b75864-70d3-4bc4-9bde-d0fa63626e25)
 3.8 Kết quả sau khi truy vấn.
 ![Ảnh chụp màn hình 2025-04-16 235608](https://github.com/user-attachments/assets/4191afea-b7f4-4b29-8911-d0c6639e3dae)
